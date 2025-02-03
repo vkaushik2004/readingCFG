@@ -1,1 +1,1 @@
-# readingCFG
+This project was designed to take Context Free Grammars in the form of a txt file and produce various results with the data by analyzing the input. The functions include reading the grammar and creating sets of all the variables, terminals and non terminals, creating FIRST and FOLLOW sets, and removing useless symbols from the grammar.
